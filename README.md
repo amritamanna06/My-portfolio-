@@ -14,7 +14,7 @@
 
     <section>
         <h2>About Me</h2>
-        <p><b>Name: Amrita Manna</b></p>
+        <p><b>Name: Amrita</b></p>
         <p>This is my portfolio</p>
 
         <img src="image.jpeg" height="100" width="100" alt="Profile">
@@ -30,16 +30,22 @@
     </section>
 
 </body>
-  </html>
+</html>
 
-  MY PORTFOLIO
+output
+MY PORTFOLIO
+
 About Me
-Name: Amrita Manna
+
+Name:Amrita
 
 This is my portfolio
 
-Profile
 My Skills
+
 HTML
+
 CSS
+
 JS
+
